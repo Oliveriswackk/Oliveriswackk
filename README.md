@@ -1,60 +1,70 @@
 # Oliver Manríquez Coronado
+```text
           |\      _,,,---,,_
     ZZZzz /,`.-'`'    -.  ;-;;,_
          |,4-  ) )-,_. ,\ (  `'-'
         '---''(_/--'  `-'\_)
-Backend Developer focused on data processing, validation, and system reliability.
+```
+### Software Engineer
 
-I build systems for environments where data is noisy, incomplete, or unreliable — and where incorrect outputs have real operational consequences.
+I build software systems for real-world environments — where data, processes, and constraints matter.
 
-I’m particularly valuable in environments where:
-- Data quality is inconsistent (OCR, PDFs, user input)
-- Incorrect data has a higher cost than missing data
-- Systems must remain stable under real-world constraints
+My work focuses on **software development, data, system reliability, and maintainable solutions**. I enjoy understanding how a problem works before deciding how technology should solve it.
 
----
+I’m particularly interested in:
 
-## Featured Projects
-
-### Contracts-ai — PDF Data Extraction & Validation
-- Extracts structured data from PDF documents (including OCR)
-- Applies strict validation rules to discard low-confidence data
-- Prevents propagation of incorrect data in downstream systems
-- Designed for scenarios where incorrect data is more costly than missing data
-
-🔗 https://github.com/Oliveriswackk/contracts-ai
+* Backend & software architecture
+* Data processing and information systems
+* System reliability and data integrity
+* Software design under real-world constraints
+* Building maintainable solutions that can evolve with their environment
 
 ---
 
-### Internal Directory System (Refactor)
-- Redesigned as a single source of truth for institutional data
-- Reduced duplication and improved reliability of internal queries
-- Refactored to improve maintainability without over-engineering
-- Focused on reducing system fragility in areas prone to change
+## Selected Projects
 
-🔗 https://github.com/Oliveriswackk/directorio
+### SCO — Software System
 
----
+A software project developed as part of an integrated engineering project.
 
-## What I bring
+**Focus:** software development, system design, collaboration, and delivering a complete product.
 
-- Ability to design systems that handle imperfect and unstructured data
-- Strong focus on validation, data integrity, and failure prevention
-- Experience working under real-world constraints where reliability matters more than automation
-- Practical approach: building solutions that are maintainable, understandable, and robust
+→ [View project](https://github.com/Oliveriswackk/sistema-control-oficios)
 
----
+### Directorio — Institutional Information System
 
-## How I think
+A system designed to centralize and improve the management and retrieval of institutional information.
 
-- Correctness > completeness  
-- Validation > blind automation  
-- Simplicity > over-engineering  
-- Reliability > feature count  
+**Focus:** data organization, maintainability, process understanding, and adapting software to an existing organizational environment.
+
+→ [View project](https://github.com/Oliveriswackk/DirectorioSESEA)
 
 ---
 
-## Links
+## Engineering Approach
 
-- 💼 LinkedIn: https://www.linkedin.com/in/oliver-manriquez
-- 💻 GitHub: https://github.com/Oliveriswackk
+I try to approach software problems as engineering problems rather than simply implementation tasks.
+
+* Understand the problem and its context before choosing a solution
+* Analyze existing processes before introducing changes
+* Make technical decisions based on constraints and trade-offs
+* Prefer maintainable solutions over unnecessary complexity
+* Validate assumptions and results
+* Document decisions so systems remain understandable over time
+
+---
+
+## Currently Developing
+
+* Data analysis and data-driven problem solving
+* Software engineering and system design
+* Backend and information systems
+* Professional communication in English and French
+
+---
+
+## Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/oliver-manriquez)
+* 💻 [GitHub](https://github.com/Oliveriswackk)
+
